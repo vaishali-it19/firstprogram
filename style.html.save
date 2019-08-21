@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+background-image:url("https://assetscdn1.paytm.com/images/catalog/product/K/KI/KIDRED-COLOR-SODHAR59726272CC38DF/1565766708723_1.png?imwidth=320&impolicy=hq")
+background-size:cover;
+}
+</style>
+</head>
+<body>
+
+<h1>this is a headings</h1>
+<p>this is a paragraph.</p>
+</body>
+</html>

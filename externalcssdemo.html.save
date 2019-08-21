@@ -1,0 +1,22 @@
+<html>
+<!--Demo program for external css-->
+<head><title> External css demo</title>
+<!--internal css-->
+
+<style>
+body{
+background-color:rgb(255,0,255);
+}
+h1{
+color:yellow;
+}
+p{
+color
+</style>
+</head>
+<body>
+<h1>html</h1>
+<p>hyper text markup language</p>
+<p>world wide web</p>
+</body>
+</html>
